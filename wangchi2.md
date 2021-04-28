@@ -16,4 +16,6 @@
 
 ## [另一个文件](README.md)
 
+```C++
+cout<<"hello world!"<<endl;```
 
