@@ -32,4 +32,5 @@ cout<<"hello world!"<<endl;
 3 有序列表<br />
 
 ![点击图片](OIP.jpg)
+![dianji](https://th.bing.com/th/id/R6e89e7a037edac985bcfd12af14ab24c?rik=Gy9%2fK%2blzh8UrxQ&riu=http%3a%2f%2fpic124.nipic.com%2ffile%2f20170317%2f7958055_215747949000_2.jpg&ehk=SvCLccd9cekPH9ykojZxqtVB%2b9DsTDaev3Eif%2f40Qys%3d&risl=&pid=ImgRaw)
  
